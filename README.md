@@ -33,7 +33,7 @@ To use this project, first clone the repo on your device using the commands belo
 * Word  
 * Excel  
 * ChatGPT 5.4  
-* Gemini  
+* Google Gemini  
 
 ### Abstract 
 J&F Realty Insighters is a real estate analytics company that provides data driven insights into housing market trends. Currently facing the challenge of accurately identifying the factors that influence housing price trends, this project will develop a machine learning model that predicts housing price trends by analyzing housing supply, demand indicators, and historical home values.  
@@ -74,5 +74,5 @@ J&F Realty Insighters bridges this gap. By utilizing machine learning to synthes
 
 
 ## Presentations and projects  
-* ADD FINAL IPYNB HERE
+* https://github.com/jsryu-git/ADS508_Final/blob/894cf46103e6db046d264b4610259fcf3ceb48ba/ADS508_Final.ipynb
 * ADD PPT HERE
