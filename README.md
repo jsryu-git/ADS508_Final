@@ -74,5 +74,5 @@ J&F Realty Insighters bridges this gap. By utilizing machine learning to synthes
 
 
 ## Presentations and projects
-* [ADS508 Final Project Notebook](https://github.com/jsryu-git/ADS508_Final/blob/894cf46103e6db046d24b4610259fcf3ceb48ba/ADS508_Final.ipynb)
+* [ADS508 Final Project Notebook](https://github.com/jsryu-git/ADS508_Final/blob/38aec0374b3734262542f407957cf11f5ab501ad/ADS508_Final.ipynb)
 * [ADS508 Final Presentation PDF](https://github.com/jsryu-git/ADS508_Final/blob/38aec0374b3734262542f407957cf11f5ab501ad/ADS508_Final_Presentation.pdf)
