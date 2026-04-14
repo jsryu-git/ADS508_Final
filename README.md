@@ -73,6 +73,6 @@ J&F Realty Insighters bridges this gap. By utilizing machine learning to synthes
 * Zillow Group. (n.d.). Housing data. https://www.zillow.com/research/data/  
 
 
-## Presentations and projects  
-* https://github.com/jsryu-git/ADS508_Final/blob/894cf46103e6db046d264b4610259fcf3ceb48ba/ADS508_Final.ipynb
-* 
+## Presentations and projects
+* [ADS508 Final Project Notebook](https://github.com/jsryu-git/ADS508_Final/blob/38aec0374b3734262542f407957cf11f5ab501ad/ADS508_Final.ipynb)
+* [ADS508 Final Presentation PDF](https://github.com/jsryu-git/ADS508_Final/blob/38aec0374b3734262542f407957cf11f5ab501ad/ADS508_Final_Presentation.pdf)
