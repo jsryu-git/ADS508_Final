@@ -9,7 +9,6 @@ To use this project, first clone the repo on your device using the commands belo
 ### Partner(s)/Contributor(s)  
 **Authors:**  
 * [Jun Sik Ryu](https://github.com/jsryu-git)  
-* [Faye Shawntel Corprew](https://github.com/fcorprew)  
 
 
 **Company Name:** J&F Realty Insighters  
